@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "stylelint-order",
+    "stylelint-config-rational-order/plugin"
+  ],
+  "extends": [
+    "stylelint-config-recommended",
+    "stylelint-config-rational-order"
+  ]
+}

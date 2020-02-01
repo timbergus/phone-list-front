@@ -1,0 +1,11 @@
+/__tests__/screenshots/**.png
+/__tests__/screenshots-diff/**.png
+/node_modules/
+/coverage/
+/.vscode/
+/docs/
+/dist/
+stats.json
+*.DS_Store
+*.log
+*.xml
